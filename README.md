@@ -1,53 +1,103 @@
-<!-- HEADER WITH WAVE + TITLE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Mohamed%20Elsaid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20React%20%7C%20ASP.NET%20Core%20%7C%20Node.js&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Mohamed%20Elsaid&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <a href="https://github.com/Mohamedelsaid584">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;ASP.NET+Core+%7C+Node.js+%7C+React+%7C+Flutter;From+idea+to+deployment;Clean+code+.+Scalable+systems+.+Real+projects" />
-  </a>
-</p>
+<h3 align="center">Full Stack Developer | ASP.NET Core · Node.js · React · Flutter</h3>
 
-<!-- BADGES -->
 <p align="center">
   <a href="https://github.com/Mohamedelsaid584">
-    <img src="https://img.shields.io/github/followers/Mohamedelsaid584?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github&label=Followers" />
+    <img src="https://img.shields.io/github/followers/Mohamedelsaid584?style=flat&color=1f6feb&label=Followers" />
   </a>
   <a href="https://github.com/Mohamedelsaid584?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mohamedelsaid584?style=for-the-badge&color=238636&labelColor=0d1117&logo=github&label=Stars" />
+    <img src="https://img.shields.io/github/stars/Mohamedelsaid584?style=flat&color=238636&label=Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mohamedelsaid584&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamedelsaid584&style=flat&color=blueviolet&label=Profile+Views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-```yaml
-name: Mohamed Elsaid
-username: Mohamedelsaid584
-role: Full Stack Developer
-stack:
-  backend:
-    - ASP.NET Core
-    - Node.js
-  frontend:
-    - React
-    - Flutter
-  languages:
-    - C++
-    - C#
-    - JavaScript
-    - TypeScript
-  interests:
-    - Web Apps
-    - Mobile Apps
-    - APIs
-    - Databases
-    - Networking
-mindset:
-  - shipping real projects
-  - clean & maintainable code
-  - learning by building
+I am a full stack developer focused on building practical, real-world software.  
+I care about clean code, clear structure, and shipping projects that actually run.
+
+I work across the stack: backend, frontend, mobile, databases, and basic networking.
+
+---
+
+## Skills
+
+**Core stack**
+
+- ASP.NET Core (APIs, MVC)
+- Node.js (REST APIs, services)
+- React (web interfaces)
+- Flutter (mobile apps)
+
+**Languages**
+
+- C++
+- C#
+- JavaScript / TypeScript
+- HTML, CSS
+
+**Databases & tools**
+
+- MySQL, MongoDB
+- Git, GitHub
+- Postman
+- VS Code / Visual Studio
+- Basic networking concepts
+
+---
+
+## How I Work
+
+- Start from the data and the use case, then design the API.  
+- Keep the UI simple, fast, and easy to use.  
+- Prefer small, clear modules over big messy code.  
+- Learn by building real projects, not just demos.
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohamedelsaid584&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedelsaid584&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedelsaid584&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+## Projects
+
+Here are the types of projects I build:
+
+- Learning management / educational platforms  
+- Student housing and rental management systems  
+- Inventory and expense tracking tools  
+- Full stack dashboards and admin panels  
+- API‑centric backends with authentication and reporting  
+
+I focus on making these systems stable, readable, and easy to extend.
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/Mohamedelsaid584">
+    <img src="https://img.shields.io/badge/GitHub-Mohamedelsaid584-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <!-- غيّر اللينكدإن والإيميل لو عايز تستخدمهم -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOURMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
